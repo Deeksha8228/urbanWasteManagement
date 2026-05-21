@@ -1,0 +1,166 @@
+{
+    "COMPOST_PLANT_A": {
+        "waste_types": [
+            "BIODEGRADABLE",
+            "ORGANIC"
+        ],
+        "capacity": 2000,
+        "current_load": 0,
+        "processing_rate": 400,
+        "cost_per_kg": 2,
+        "emission_factor": 1.2,
+        "status": "OPEN"
+    },
+    "COMPOST_PLANT_B": {
+        "waste_types": [
+            "BIODEGRADABLE",
+            "ORGANIC"
+        ],
+        "capacity": 2000,
+        "current_load": 0,
+        "processing_rate": 400,
+        "cost_per_kg": 2,
+        "emission_factor": 1.2,
+        "status": "OPEN"
+    },
+    "RECYCLING_CENTER_A": {
+        "waste_types": [
+            "PLASTIC",
+            "PAPER",
+            "METAL"
+        ],
+        "capacity": 3000,
+        "current_load": 0,
+        "processing_rate": 600,
+        "cost_per_kg": 4,
+        "emission_factor": 0.8,
+        "status": "OPEN"
+    },
+    "RECYCLING_CENTER_B": {
+        "waste_types": [
+            "PLASTIC",
+            "PAPER",
+            "METAL"
+        ],
+        "capacity": 3000,
+        "current_load": 0,
+        "processing_rate": 600,
+        "cost_per_kg": 4,
+        "emission_factor": 0.8,
+        "status": "OPEN"
+    },
+    "HAZARDOUS_TREATMENT_A": {
+        "waste_types": [
+            "HAZARDOUS",
+            "CHEMICAL",
+            "BIO-MEDICAL"
+        ],
+        "capacity": 1000,
+        "current_load": 0.0,
+        "processing_rate": 200,
+        "cost_per_kg": 10,
+        "emission_factor": 4.5,
+        "status": "OPEN"
+    },
+    "HAZARDOUS_TREATMENT_B": {
+        "waste_types": [
+            "HAZARDOUS",
+            "CHEMICAL",
+            "BIO-MEDICAL"
+        ],
+        "capacity": 1000,
+        "current_load": 0,
+        "processing_rate": 200,
+        "cost_per_kg": 10,
+        "emission_factor": 4.5,
+        "status": "OPEN"
+    },
+    "METAL_RECOVERY_A": {
+        "waste_types": [
+            "METAL"
+        ],
+        "capacity": 1500,
+        "current_load": 0,
+        "processing_rate": 300,
+        "cost_per_kg": 3,
+        "emission_factor": 0.5,
+        "status": "OPEN"
+    },
+    "METAL_RECOVERY_B": {
+        "waste_types": [
+            "METAL"
+        ],
+        "capacity": 1500,
+        "current_load": 0,
+        "processing_rate": 300,
+        "cost_per_kg": 3,
+        "emission_factor": 0.5,
+        "status": "OPEN"
+    },
+    "BIO_MEDICAL_INCINERATOR_A": {
+        "waste_types": [
+            "BIO-MEDICAL"
+        ],
+        "capacity": 800,
+        "current_load": 0.0,
+        "processing_rate": 150,
+        "cost_per_kg": 12,
+        "emission_factor": 5.0,
+        "status": "OPEN"
+    },
+    "BIO_MEDICAL_INCINERATOR_B": {
+        "waste_types": [
+            "BIO-MEDICAL"
+        ],
+        "capacity": 800,
+        "current_load": 0,
+        "processing_rate": 150,
+        "cost_per_kg": 12,
+        "emission_factor": 5.0,
+        "status": "OPEN"
+    },
+    "INDUSTRIAL_TREATMENT_A": {
+        "waste_types": [
+            "CHEMICAL"
+        ],
+        "capacity": 1200,
+        "current_load": 0,
+        "processing_rate": 250,
+        "cost_per_kg": 8,
+        "emission_factor": 3.5,
+        "status": "OPEN"
+    },
+    "INDUSTRIAL_TREATMENT_B": {
+        "waste_types": [
+            "CHEMICAL"
+        ],
+        "capacity": 1200,
+        "current_load": 0,
+        "processing_rate": 250,
+        "cost_per_kg": 8,
+        "emission_factor": 3.5,
+        "status": "OPEN"
+    },
+    "SECONDARY_SEGREGATION_A": {
+        "waste_types": [
+            "CONTAMINATED"
+        ],
+        "capacity": 500,
+        "current_load": 0,
+        "processing_rate": 100,
+        "cost_per_kg": 6,
+        "emission_factor": 2.0,
+        "status": "OPEN"
+    },
+    "SECONDARY_SEGREGATION_B": {
+        "waste_types": [
+            "CONTAMINATED"
+        ],
+        "capacity": 500,
+        "current_load": 0,
+        "processing_rate": 100,
+        "cost_per_kg": 6,
+        "emission_factor": 2.0,
+        "status": "OPEN"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "B-01": false,
+    "B-02": false,
+    "B-03": false,
+    "B-04": false,
+    "B-05": false,
+    "B-06": false,
+    "B-07": false,
+    "B-08": false,
+    "B-09": false,
+    "B-10": false,
+    "B-11": false,
+    "B-12": false,
+    "B-13": false,
+    "B-14": false,
+    "B-15": false,
+    "B-16": false,
+    "B-17": false,
+    "B-18": false,
+    "B-19": false,
+    "B-20": false
+}

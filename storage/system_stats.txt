@@ -1,0 +1,11 @@
+{
+    "treasury_balance": 10224.043000000001,
+    "daily_revenue": 2800,
+    "daily_expense": 2575.9569999999994,
+    "total_revenue": 2800,
+    "total_waste_collected": 1912.0,
+    "total_emissions": 2979.0,
+    "total_recycled": 90.0,
+    "total_landfill": 0,
+    "daily_processing_cost": 7464.0
+}

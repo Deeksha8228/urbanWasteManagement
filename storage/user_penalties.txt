@@ -1,0 +1,11 @@
+{
+    "Deeks": [
+        {
+            "bin": "B-14",
+            "waste_type": "PAPER",
+            "amount": 100,
+            "time": "19:17:17"
+        }
+    ],
+    "Deeple": 0
+}
